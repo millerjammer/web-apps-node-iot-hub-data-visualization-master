@@ -33,7 +33,7 @@ $(document).ready(function () {
   var basicOption = {
     title: {
       display: true,
-      text: 'Cancun Real-time Data',
+      text: 'Cancun Real-time Data v1.1',
       fontSize: 36
     },
     scales: {
